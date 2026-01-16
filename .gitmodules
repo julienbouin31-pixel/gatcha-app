@@ -1,9 +1,0 @@
-[submodule "api-players"]
-	path = api-players
-	url = https://github.com/julienbouin31-pixel/gatcha-api-players.git
-[submodule "api-monsters"]
-	path = api-monsters
-	url = https://github.com/julienbouin31-pixel/gatcha-api-monsters.git
-[submodule "api-summons"]
-	path = api-summons
-	url = https://github.com/julienbouin31-pixel/gatcha-api-summons.git
