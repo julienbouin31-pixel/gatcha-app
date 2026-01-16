@@ -7,3 +7,6 @@
 [submodule "gatcha-api-summons"]
 	path = gatcha-api-summons
 	url = https://github.com/julienbouin31-pixel/gatcha-api-summons.git
+[submodule "gatcha-api-auth"]
+	path = gatcha-api-auth
+	url = https://github.com/julienbouin31-pixel/gatcha-api-auth.git
