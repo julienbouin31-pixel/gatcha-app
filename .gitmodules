@@ -1,0 +1,12 @@
+[submodule "gatcha-api-auth"]
+	path = gatcha-api-auth
+	url = https://github.com/julienbouin31-pixel/gatcha-api-auth.git
+[submodule "gatcha-api-players"]
+	path = gatcha-api-players
+	url = https://github.com/julienbouin31-pixel/gatcha-api-players.git
+[submodule "gatcha-api-monsters"]
+	path = gatcha-api-monsters
+	url = https://github.com/julienbouin31-pixel/gatcha-api-monsters.git
+[submodule "gatcha-api-summons"]
+	path = gatcha-api-summons
+	url = https://github.com/julienbouin31-pixel/gatcha-api-summons.git
