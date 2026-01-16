@@ -1,1 +1,1 @@
-# Gatcha App
+# Gatcha API Auth
